@@ -139,20 +139,6 @@ a {
   color: #fff;
 }
 
-/*----- sp -----*/
-
-@media screen and (max-width: 560px) {
-  .ly-global-nav {
-    width: 100%;
-    transform: translate(100%);
-  }
-
-  .ly-global-nav.open {
-    transform: translateZ(0);
-    width: 100%;
-  }
-}
-
 /* sub-menu
 =====================================================*/
 
